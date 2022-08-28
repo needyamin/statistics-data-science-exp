@@ -1,9 +1,11 @@
 # statistics-data-science-exp
 Statistics Data Science Experimentation
 
-# how to export pip list?
-`` How to Export current path? ``
+Python Version: 3.10.5
+
+# how to import/export pip list?
+`` How to export? ``
 > env path freeze > requirements.txt
 
-`` How to Import/Install pip list? ``
+`` How to import/install pip list? ``
 > env path install -r requirements.txt
